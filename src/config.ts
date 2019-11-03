@@ -1,0 +1,1 @@
+export const FII_COLLECTOR_URI = 'https://www.fundsexplorer.com.br/funds';
